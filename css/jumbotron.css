@@ -1,0 +1,10 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+.jumbotron img {
+    width: 200px;
+    border: 5px solid;
+    color: gray;
+}
